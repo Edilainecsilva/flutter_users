@@ -1,16 +1,22 @@
-# flutter_users
+# Flutter CRUD Users
 
-A new Flutter project.
+Este foi um pequeno projeto criado em Flutter para apresentar uma lista de usuários, contendo um CRUD, para leitura, edição, remoção e adição de usuários.
 
-## Getting Started
+## Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Firebase (Firestore para armazenamento de dados)
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Criação de novos usuários
+- Leitura da lista de usuários
+- Atualização de dados dos usuários
+- Remoção de usuários existentes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contato
+
+Inclua suas informações de contato, como email ou perfil de redes sociais, para que outras pessoas possam entrar em contato com você em caso de dúvidas ou sugestões.
+
+--- 
+
