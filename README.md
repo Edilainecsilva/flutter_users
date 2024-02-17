@@ -16,6 +16,6 @@ Este foi um pequeno projeto criado em Flutter para apresentar uma lista de usuá
 --- 
 
 ## Vídeo
-- [Video](https://www.youtube.com/watch?v=Mq2UzZDt9GQ)https://www.youtube.com/watch?v=Mq2UzZDt9GQ)
+- [Video](https://www.youtube.com/watch?v=Mq2UzZDt9GQ)
 
 
