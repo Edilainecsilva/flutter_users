@@ -13,10 +13,6 @@ Este foi um pequeno projeto criado em Flutter para apresentar uma lista de usuá
 - Leitura da lista de usuários
 - Atualização de dados dos usuários
 - Remoção de usuários existentes
-
-## Contato
-
-Inclua suas informações de contato, como email ou perfil de redes sociais, para que outras pessoas possam entrar em contato com você em caso de dúvidas ou sugestões.
-
 --- 
+
 
