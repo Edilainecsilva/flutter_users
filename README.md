@@ -15,4 +15,7 @@ Este foi um pequeno projeto criado em Flutter para apresentar uma lista de usuá
 - Remoção de usuários existentes
 --- 
 
+## Vídeo
+- [Video](https://www.youtube.com/watch?v=Mq2UzZDt9GQ)https://www.youtube.com/watch?v=Mq2UzZDt9GQ)
+
 
